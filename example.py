@@ -7,7 +7,7 @@ app = FlaskAPI(__name__)
 notes = {
     0: "Germinare Tech - Confie no seu esforço e na sua preparação: cada desafio em DevOps é uma chance de mostrar o que você sabe e o quanto evoluiu. Vá com calma e com determinação, você consegue!",
     1: "Pipeline é VIDA - Confie no seu esforço e na sua preparação. Cada desafio é uma chance de mostrar o que você sabe e o quanto cresceu. Vá com calma, você consegue! ",
-    2: "Cada passo na AWS Cloud é um avanço em direção à inovação e à eficiência. Confie no seu aprendizado e explore sem limites; o céu é o ponto de partida!"",
+    2: "Cada passo na AWS Cloud é um avanço em direção à inovação e à eficiência. Confie no seu aprendizado e explore sem limites; o céu é o ponto de partida!"
 }
 
 
