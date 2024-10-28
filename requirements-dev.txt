@@ -1,0 +1,8 @@
+flake8
+pytest
+pytest-cov
+twine
+mkdocs
+docutils
+coveragespace
+Flask-API
